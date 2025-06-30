@@ -7704,7 +7704,11 @@ Transaction ID,Student ID,Book Title,Course and Year,Date Borrowed
 20250103-002,2024-00190-LQ-0,Data Structures in C,DIT-1,21/07/2023
 20250103-002,2024-00190-LQ-0,Introduction to Programming,DIT-1,21/07/2023
 20250308-002,2022-00933-LQ-0,Data Structures in C,DIT-1,15/04/2023
+<<<<<<< HEAD
 20250308-002,2022-00933-LQ-0,IntroWduction to Programming,DIT-1,15/04/2023
+=======
+20250308-002,2022-00933-LQ-0,Introduction to Programming,DIT-1,15/04/2023
+>>>>>>> dad84d3ecd0f40373db515fc892d4a877896ac98
 20250308-002,2022-00933-LQ-0,Artificial Intelligence,DIT-1,15/04/2023
 20250308-002,2022-00933-LQ-0,Computer Networks,DIT-1,15/04/2023
 20250308-005,2022-00233-LQ-0,Computer Networks,DIT-2,29/06/2024

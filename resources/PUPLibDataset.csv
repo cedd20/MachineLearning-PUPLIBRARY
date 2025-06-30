@@ -6508,3 +6508,1214 @@ Transaction ID,Student ID,Book Title,Course and Year,Date Borrowed
 20231027-001,2024-00426-LQ-1,Educational Technology for Elementary Teachers,BEED-1,27/10/2023
 20230525-002,2021-00276-LQ-0,Child and Adolescent Development,BEED-4,25/05/2023
 20230525-002,2021-00276-LQ-0,Teaching Strategies in the Elementary Grades,BEED-4,25/05/2023
+20230801-004,2023-00217-LQ-1,Industrial Motor Control,DEET-2,1/8/2023
+20230801-004,2023-00217-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,1/8/2023
+20230603-001,2022-00307-LQ-0,Applied Electronics,DEET-3,3/6/2023
+20230603-001,2022-00307-LQ-0,Power Systems and Transmission,DEET-3,3/6/2023
+20230603-001,2022-00307-LQ-0,Basic Electrical Engineering,DEET-3,3/6/2023
+20230603-001,2022-00307-LQ-0,Digital and Analog Devices,DEET-3,3/6/2023
+20230603-001,2022-00307-LQ-0,Electrical Wiring and Design,DEET-3,3/6/2023
+20230603-001,2022-00307-LQ-0,Introduction to Electrical Circuits,DEET-3,3/6/2023
+20241028-001,2021-00212-LQ-0,Electrical Safety Standards,DEET-4,28/10/2024
+20241028-001,2021-00212-LQ-0,Industrial Motor Control,DEET-4,28/10/2024
+20241028-001,2021-00212-LQ-0,Applied Electronics,DEET-4,28/10/2024
+20241028-001,2021-00212-LQ-0,Digital and Analog Devices,DEET-4,28/10/2024
+20250126-001,2022-00475-LQ-0,Electrical Wiring and Design,DEET-3,26/01/2025
+20250126-001,2022-00475-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,26/01/2025
+20250126-001,2022-00475-LQ-0,Power Systems and Transmission,DEET-3,26/01/2025
+20250108-001,2021-00288-LQ-0,Power Systems and Transmission,DEET-4,8/1/2025
+20250108-001,2021-00288-LQ-0,Electrical Safety Standards,DEET-4,8/1/2025
+20250108-001,2021-00288-LQ-0,Digital and Analog Devices,DEET-4,8/1/2025
+20230928-003,2021-00198-LQ-1,Electrical Safety Standards,DEET-4,28/09/2023
+20230928-003,2021-00198-LQ-1,Fundamentals of Electromechanical Systems,DEET-4,28/09/2023
+20230611-001,2022-00476-LQ-0,Electrical Safety Standards,DEET-3,11/6/2023
+20230611-001,2022-00476-LQ-0,Power Systems and Transmission,DEET-3,11/6/2023
+20230611-001,2022-00476-LQ-0,Introduction to Electrical Circuits,DEET-3,11/6/2023
+20230611-001,2022-00476-LQ-0,Applied Electronics,DEET-3,11/6/2023
+20230611-001,2022-00476-LQ-0,Basic Electrical Engineering,DEET-3,11/6/2023
+20230611-001,2022-00476-LQ-0,Digital and Analog Devices,DEET-3,11/6/2023
+20240412-001,2021-00235-LQ-1,Industrial Motor Control,DEET-4,12/4/2024
+20240412-001,2021-00235-LQ-1,Instrumentation and Measurement,DEET-4,12/4/2024
+20240412-001,2021-00235-LQ-1,Basic Electrical Engineering,DEET-4,12/4/2024
+20240731-004,2024-00234-LQ-0,Electrical Safety Standards,DEET-1,31/07/2024
+20240731-004,2024-00234-LQ-0,Fundamentals of Electromechanical Systems,DEET-1,31/07/2024
+20240731-004,2024-00234-LQ-0,Applied Electronics,DEET-1,31/07/2024
+20240731-004,2024-00234-LQ-0,Introduction to Electrical Circuits,DEET-1,31/07/2024
+20240610-004,2024-00318-LQ-1,Instrumentation and Measurement,DEET-1,10/6/2024
+20240610-004,2024-00318-LQ-1,Electrical Wiring and Design,DEET-1,10/6/2024
+20240610-004,2024-00318-LQ-1,Industrial Motor Control,DEET-1,10/6/2024
+20240610-004,2024-00318-LQ-1,Electrical Safety Standards,DEET-1,10/6/2024
+20240610-004,2024-00318-LQ-1,Fundamentals of Electromechanical Systems,DEET-1,10/6/2024
+20230731-002,2022-00131-LQ-0,Electrical Wiring and Design,DEET-3,31/07/2023
+20230731-002,2022-00131-LQ-0,Industrial Motor Control,DEET-3,31/07/2023
+20230731-002,2022-00131-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,31/07/2023
+20230731-002,2022-00131-LQ-0,Electrical Safety Standards,DEET-3,31/07/2023
+20230731-002,2022-00131-LQ-0,Basic Electrical Engineering,DEET-3,31/07/2023
+20230731-002,2022-00131-LQ-0,Introduction to Electrical Circuits,DEET-3,31/07/2023
+20250328-002,2022-00364-LQ-0,Electrical Safety Standards,DEET-3,28/03/2025
+20250328-002,2022-00364-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,28/03/2025
+20250328-002,2022-00364-LQ-0,Power Systems and Transmission,DEET-3,28/03/2025
+20240316-002,2023-00473-LQ-1,Electrical Wiring and Design,DEET-2,16/03/2024
+20240316-002,2023-00473-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,16/03/2024
+20240316-002,2023-00473-LQ-1,Introduction to Electrical Circuits,DEET-2,16/03/2024
+20240316-002,2023-00473-LQ-1,Basic Electrical Engineering,DEET-2,16/03/2024
+20240321-003,2021-00300-LQ-0,Applied Electronics,DEET-4,21/03/2024
+20240321-003,2021-00300-LQ-0,Power Systems and Transmission,DEET-4,21/03/2024
+20240321-003,2021-00300-LQ-0,Industrial Motor Control,DEET-4,21/03/2024
+20240321-003,2021-00300-LQ-0,Digital and Analog Devices,DEET-4,21/03/2024
+20240321-003,2021-00300-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,21/03/2024
+20250311-001,2023-00286-LQ-0,Basic Electrical Engineering,DEET-2,11/3/2025
+20250311-001,2023-00286-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,11/3/2025
+20250311-001,2023-00286-LQ-0,Industrial Motor Control,DEET-2,11/3/2025
+20240526-003,2024-00169-LQ-0,Electrical Safety Standards,DEET-1,26/05/2024
+20240526-003,2024-00169-LQ-0,Basic Electrical Engineering,DEET-1,26/05/2024
+20240526-003,2024-00169-LQ-0,Digital and Analog Devices,DEET-1,26/05/2024
+20230101-001,2023-00496-LQ-0,Basic Electrical Engineering,DEET-2,1/1/2023
+20230101-001,2023-00496-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,1/1/2023
+20241111-001,2022-00298-LQ-0,Applied Electronics,DEET-3,11/11/2024
+20241111-001,2022-00298-LQ-0,Industrial Motor Control,DEET-3,11/11/2024
+20241111-001,2022-00298-LQ-0,Instrumentation and Measurement,DEET-3,11/11/2024
+20241111-001,2022-00298-LQ-0,Digital and Analog Devices,DEET-3,11/11/2024
+20241111-001,2022-00298-LQ-0,Introduction to Electrical Circuits,DEET-3,11/11/2024
+20241111-001,2022-00298-LQ-0,Electrical Wiring and Design,DEET-3,11/11/2024
+20230423-002,2023-00404-LQ-0,Power Systems and Transmission,DEET-2,23/04/2023
+20230423-002,2023-00404-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,23/04/2023
+20230423-002,2023-00404-LQ-0,Electrical Safety Standards,DEET-2,23/04/2023
+20240716-003,2023-00399-LQ-0,Electrical Safety Standards,DEET-2,16/07/2024
+20240716-003,2023-00399-LQ-0,Electrical Wiring and Design,DEET-2,16/07/2024
+20240716-003,2023-00399-LQ-0,Instrumentation and Measurement,DEET-2,16/07/2024
+20240716-003,2023-00399-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,16/07/2024
+20230331-002,2021-00007-LQ-1,Electrical Safety Standards,DEET-4,31/03/2023
+20230331-002,2021-00007-LQ-1,Introduction to Electrical Circuits,DEET-4,31/03/2023
+20230331-002,2021-00007-LQ-1,Instrumentation and Measurement,DEET-4,31/03/2023
+20230331-002,2021-00007-LQ-1,Applied Electronics,DEET-4,31/03/2023
+20230331-002,2021-00007-LQ-1,Digital and Analog Devices,DEET-4,31/03/2023
+20230827-002,2023-00183-LQ-1,Electrical Safety Standards,DEET-2,27/08/2023
+20230827-002,2023-00183-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,27/08/2023
+20230827-002,2023-00183-LQ-1,Introduction to Electrical Circuits,DEET-2,27/08/2023
+20230827-002,2023-00183-LQ-1,Power Systems and Transmission,DEET-2,27/08/2023
+20230827-002,2023-00183-LQ-1,Basic Electrical Engineering,DEET-2,27/08/2023
+20250221-004,2022-00328-LQ-1,Electrical Wiring and Design,DEET-3,21/02/2025
+20250221-004,2022-00328-LQ-1,Fundamentals of Electromechanical Systems,DEET-3,21/02/2025
+20230106-002,2023-00207-LQ-0,Electrical Safety Standards,DEET-2,6/1/2023
+20230106-002,2023-00207-LQ-0,Introduction to Electrical Circuits,DEET-2,6/1/2023
+20230106-002,2023-00207-LQ-0,Instrumentation and Measurement,DEET-2,6/1/2023
+20230106-002,2023-00207-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,6/1/2023
+20230106-002,2023-00207-LQ-0,Industrial Motor Control,DEET-2,6/1/2023
+20230106-002,2023-00207-LQ-0,Electrical Wiring and Design,DEET-2,6/1/2023
+20230114-001,2024-00265-LQ-1,Applied Electronics,DEET-1,14/01/2023
+20230114-001,2024-00265-LQ-1,Instrumentation and Measurement,DEET-1,14/01/2023
+20230114-001,2024-00265-LQ-1,Introduction to Electrical Circuits,DEET-1,14/01/2023
+20230114-001,2024-00265-LQ-1,Basic Electrical Engineering,DEET-1,14/01/2023
+20241112-001,2022-00129-LQ-1,Electrical Wiring and Design,DEET-3,12/11/2024
+20241112-001,2022-00129-LQ-1,Industrial Motor Control,DEET-3,12/11/2024
+20241112-001,2022-00129-LQ-1,Introduction to Electrical Circuits,DEET-3,12/11/2024
+20241112-001,2022-00129-LQ-1,Instrumentation and Measurement,DEET-3,12/11/2024
+20241112-001,2022-00129-LQ-1,Electrical Safety Standards,DEET-3,12/11/2024
+20240610-005,2023-00231-LQ-0,Electrical Wiring and Design,DEET-2,10/6/2024
+20240610-005,2023-00231-LQ-0,Instrumentation and Measurement,DEET-2,10/6/2024
+20240610-005,2023-00231-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,10/6/2024
+20240610-005,2023-00231-LQ-0,Industrial Motor Control,DEET-2,10/6/2024
+20241123-002,2023-00472-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,23/11/2024
+20241123-002,2023-00472-LQ-1,Electrical Wiring and Design,DEET-2,23/11/2024
+20241123-002,2023-00472-LQ-1,Introduction to Electrical Circuits,DEET-2,23/11/2024
+20241123-002,2023-00472-LQ-1,Electrical Safety Standards,DEET-2,23/11/2024
+20241123-002,2023-00472-LQ-1,Power Systems and Transmission,DEET-2,23/11/2024
+20230209-004,2022-00162-LQ-0,Electrical Safety Standards,DEET-3,9/2/2023
+20230209-004,2022-00162-LQ-0,Introduction to Electrical Circuits,DEET-3,9/2/2023
+20230211-002,2024-00341-LQ-1,Digital and Analog Devices,DEET-1,11/2/2023
+20230211-002,2024-00341-LQ-1,Industrial Motor Control,DEET-1,11/2/2023
+20230211-002,2024-00341-LQ-1,Applied Electronics,DEET-1,11/2/2023
+20240511-002,2023-00065-LQ-1,Digital and Analog Devices,DEET-2,11/5/2024
+20240511-002,2023-00065-LQ-1,Instrumentation and Measurement,DEET-2,11/5/2024
+20240511-002,2023-00065-LQ-1,Electrical Wiring and Design,DEET-2,11/5/2024
+20240511-002,2023-00065-LQ-1,Applied Electronics,DEET-2,11/5/2024
+20240511-002,2023-00065-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,11/5/2024
+20240511-002,2023-00065-LQ-1,Introduction to Electrical Circuits,DEET-2,11/5/2024
+20230204-001,2021-00428-LQ-0,Applied Electronics,DEET-4,4/2/2023
+20230204-001,2021-00428-LQ-0,Industrial Motor Control,DEET-4,4/2/2023
+20230204-001,2021-00428-LQ-0,Electrical Wiring and Design,DEET-4,4/2/2023
+20230204-001,2021-00428-LQ-0,Electrical Safety Standards,DEET-4,4/2/2023
+20230204-001,2021-00428-LQ-0,Introduction to Electrical Circuits,DEET-4,4/2/2023
+20230204-001,2021-00428-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,4/2/2023
+20230119-002,2021-00388-LQ-1,Fundamentals of Electromechanical Systems,DEET-4,19/01/2023
+20230119-002,2021-00388-LQ-1,Electrical Wiring and Design,DEET-4,19/01/2023
+20230119-002,2021-00388-LQ-1,Introduction to Electrical Circuits,DEET-4,19/01/2023
+20230119-002,2021-00388-LQ-1,Digital and Analog Devices,DEET-4,19/01/2023
+20230119-002,2021-00388-LQ-1,Electrical Safety Standards,DEET-4,19/01/2023
+20230119-002,2021-00388-LQ-1,Applied Electronics,DEET-4,19/01/2023
+20241029-001,2022-00322-LQ-0,Electrical Safety Standards,DEET-3,29/10/2024
+20241029-001,2022-00322-LQ-0,Power Systems and Transmission,DEET-3,29/10/2024
+20241029-001,2022-00322-LQ-0,Applied Electronics,DEET-3,29/10/2024
+20241029-001,2022-00322-LQ-0,Basic Electrical Engineering,DEET-3,29/10/2024
+20241029-001,2022-00322-LQ-0,Industrial Motor Control,DEET-3,29/10/2024
+20241029-001,2022-00322-LQ-0,Digital and Analog Devices,DEET-3,29/10/2024
+20230418-002,2022-00188-LQ-1,Introduction to Electrical Circuits,DEET-3,18/04/2023
+20230418-002,2022-00188-LQ-1,Digital and Analog Devices,DEET-3,18/04/2023
+20241017-002,2021-00332-LQ-1,Basic Electrical Engineering,DEET-4,17/10/2024
+20241017-002,2021-00332-LQ-1,Electrical Wiring and Design,DEET-4,17/10/2024
+20241017-002,2021-00332-LQ-1,Industrial Motor Control,DEET-4,17/10/2024
+20241017-002,2021-00332-LQ-1,Digital and Analog Devices,DEET-4,17/10/2024
+20241017-002,2021-00332-LQ-1,Introduction to Electrical Circuits,DEET-4,17/10/2024
+20241017-002,2021-00332-LQ-1,Power Systems and Transmission,DEET-4,17/10/2024
+20230210-001,2023-00473-LQ-0,Applied Electronics,DEET-2,10/2/2023
+20230210-001,2023-00473-LQ-0,Instrumentation and Measurement,DEET-2,10/2/2023
+20240808-002,2024-00104-LQ-0,Industrial Motor Control,DEET-1,8/8/2024
+20240808-002,2024-00104-LQ-0,Power Systems and Transmission,DEET-1,8/8/2024
+20240808-002,2024-00104-LQ-0,Basic Electrical Engineering,DEET-1,8/8/2024
+20240808-002,2024-00104-LQ-0,Applied Electronics,DEET-1,8/8/2024
+20240107-001,2022-00013-LQ-1,Applied Electronics,DEET-3,7/1/2024
+20240107-001,2022-00013-LQ-1,Instrumentation and Measurement,DEET-3,7/1/2024
+20240107-001,2022-00013-LQ-1,Basic Electrical Engineering,DEET-3,7/1/2024
+20240107-001,2022-00013-LQ-1,Introduction to Electrical Circuits,DEET-3,7/1/2024
+20240107-001,2022-00013-LQ-1,Industrial Motor Control,DEET-3,7/1/2024
+20240107-001,2022-00013-LQ-1,Electrical Safety Standards,DEET-3,7/1/2024
+20241228-002,2022-00148-LQ-0,Instrumentation and Measurement,DEET-3,28/12/2024
+20241228-002,2022-00148-LQ-0,Industrial Motor Control,DEET-3,28/12/2024
+20241228-002,2022-00148-LQ-0,Digital and Analog Devices,DEET-3,28/12/2024
+20230408-002,2021-00267-LQ-0,Instrumentation and Measurement,DEET-4,8/4/2023
+20230408-002,2021-00267-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,8/4/2023
+20230408-002,2021-00267-LQ-0,Electrical Wiring and Design,DEET-4,8/4/2023
+20230408-002,2021-00267-LQ-0,Industrial Motor Control,DEET-4,8/4/2023
+20230408-002,2021-00267-LQ-0,Power Systems and Transmission,DEET-4,8/4/2023
+20231005-001,2021-00078-LQ-1,Digital and Analog Devices,DEET-4,5/10/2023
+20231005-001,2021-00078-LQ-1,Introduction to Electrical Circuits,DEET-4,5/10/2023
+20231005-001,2021-00078-LQ-1,Electrical Wiring and Design,DEET-4,5/10/2023
+20230606-001,2021-00160-LQ-0,Basic Electrical Engineering,DEET-4,6/6/2023
+20230606-001,2021-00160-LQ-0,Digital and Analog Devices,DEET-4,6/6/2023
+20231020-001,2022-00438-LQ-1,Fundamentals of Electromechanical Systems,DEET-3,20/10/2023
+20231020-001,2022-00438-LQ-1,Electrical Safety Standards,DEET-3,20/10/2023
+20230331-003,2021-00278-LQ-0,Electrical Wiring and Design,DEET-4,31/03/2023
+20230331-003,2021-00278-LQ-0,Instrumentation and Measurement,DEET-4,31/03/2023
+20230331-003,2021-00278-LQ-0,Basic Electrical Engineering,DEET-4,31/03/2023
+20230331-003,2021-00278-LQ-0,Digital and Analog Devices,DEET-4,31/03/2023
+20230331-003,2021-00278-LQ-0,Power Systems and Transmission,DEET-4,31/03/2023
+20230331-003,2021-00278-LQ-0,Introduction to Electrical Circuits,DEET-4,31/03/2023
+20240701-001,2021-00313-LQ-0,Electrical Wiring and Design,DEET-4,1/7/2024
+20240701-001,2021-00313-LQ-0,Instrumentation and Measurement,DEET-4,1/7/2024
+20240701-001,2021-00313-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,1/7/2024
+20240701-001,2021-00313-LQ-0,Basic Electrical Engineering,DEET-4,1/7/2024
+20240701-001,2021-00313-LQ-0,Applied Electronics,DEET-4,1/7/2024
+20230822-001,2021-00389-LQ-0,Applied Electronics,DEET-4,22/08/2023
+20230822-001,2021-00389-LQ-0,Electrical Wiring and Design,DEET-4,22/08/2023
+20230822-001,2021-00389-LQ-0,Power Systems and Transmission,DEET-4,22/08/2023
+20230822-001,2021-00389-LQ-0,Instrumentation and Measurement,DEET-4,22/08/2023
+20230822-001,2021-00389-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,22/08/2023
+20230822-001,2021-00389-LQ-0,Digital and Analog Devices,DEET-4,22/08/2023
+20240223-001,2022-00494-LQ-0,Industrial Motor Control,DEET-3,23/02/2024
+20240223-001,2022-00494-LQ-0,Instrumentation and Measurement,DEET-3,23/02/2024
+20240223-001,2022-00494-LQ-0,Power Systems and Transmission,DEET-3,23/02/2024
+20230622-002,2023-00101-LQ-1,Applied Electronics,DEET-2,22/06/2023
+20230622-002,2023-00101-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,22/06/2023
+20230622-002,2023-00101-LQ-1,Basic Electrical Engineering,DEET-2,22/06/2023
+20230404-003,2021-00190-LQ-0,Basic Electrical Engineering,DEET-4,4/4/2023
+20230404-003,2021-00190-LQ-0,Power Systems and Transmission,DEET-4,4/4/2023
+20230404-003,2021-00190-LQ-0,Introduction to Electrical Circuits,DEET-4,4/4/2023
+20230404-003,2021-00190-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,4/4/2023
+20230404-003,2021-00190-LQ-0,Applied Electronics,DEET-4,4/4/2023
+20230404-003,2021-00190-LQ-0,Electrical Safety Standards,DEET-4,4/4/2023
+20241114-001,2021-00395-LQ-0,Instrumentation and Measurement,DEET-4,14/11/2024
+20241114-001,2021-00395-LQ-0,Applied Electronics,DEET-4,14/11/2024
+20240416-001,2021-00318-LQ-0,Electrical Wiring and Design,DEET-4,16/04/2024
+20240416-001,2021-00318-LQ-0,Applied Electronics,DEET-4,16/04/2024
+20230818-002,2024-00141-LQ-1,Introduction to Electrical Circuits,DEET-1,18/08/2023
+20230818-002,2024-00141-LQ-1,Electrical Safety Standards,DEET-1,18/08/2023
+20230818-002,2024-00141-LQ-1,Industrial Motor Control,DEET-1,18/08/2023
+20230818-002,2024-00141-LQ-1,Fundamentals of Electromechanical Systems,DEET-1,18/08/2023
+20230818-002,2024-00141-LQ-1,Basic Electrical Engineering,DEET-1,18/08/2023
+20230818-002,2024-00141-LQ-1,Digital and Analog Devices,DEET-1,18/08/2023
+20241110-003,2021-00292-LQ-0,Power Systems and Transmission,DEET-4,10/11/2024
+20241110-003,2021-00292-LQ-0,Industrial Motor Control,DEET-4,10/11/2024
+20241110-003,2021-00292-LQ-0,Digital and Analog Devices,DEET-4,10/11/2024
+20241130-001,2023-00243-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,30/11/2024
+20241130-001,2023-00243-LQ-0,Introduction to Electrical Circuits,DEET-2,30/11/2024
+20241130-001,2023-00243-LQ-0,Electrical Wiring and Design,DEET-2,30/11/2024
+20241130-001,2023-00243-LQ-0,Power Systems and Transmission,DEET-2,30/11/2024
+20241130-001,2023-00243-LQ-0,Industrial Motor Control,DEET-2,30/11/2024
+20241130-001,2023-00243-LQ-0,Applied Electronics,DEET-2,30/11/2024
+20240218-001,2023-00279-LQ-1,Power Systems and Transmission,DEET-2,18/02/2024
+20240218-001,2023-00279-LQ-1,Electrical Wiring and Design,DEET-2,18/02/2024
+20240218-001,2023-00279-LQ-1,Instrumentation and Measurement,DEET-2,18/02/2024
+20240218-001,2023-00279-LQ-1,Basic Electrical Engineering,DEET-2,18/02/2024
+20240218-001,2023-00279-LQ-1,Digital and Analog Devices,DEET-2,18/02/2024
+20230927-002,2024-00492-LQ-1,Basic Electrical Engineering,DEET-1,27/09/2023
+20230927-002,2024-00492-LQ-1,Digital and Analog Devices,DEET-1,27/09/2023
+20230927-002,2024-00492-LQ-1,Industrial Motor Control,DEET-1,27/09/2023
+20230927-002,2024-00492-LQ-1,Fundamentals of Electromechanical Systems,DEET-1,27/09/2023
+20230927-002,2024-00492-LQ-1,Electrical Safety Standards,DEET-1,27/09/2023
+20230927-002,2024-00492-LQ-1,Applied Electronics,DEET-1,27/09/2023
+20240124-001,2021-00114-LQ-0,Introduction to Electrical Circuits,DEET-4,24/01/2024
+20240124-001,2021-00114-LQ-0,Instrumentation and Measurement,DEET-4,24/01/2024
+20230714-001,2021-00265-LQ-1,Basic Electrical Engineering,DEET-4,14/07/2023
+20230714-001,2021-00265-LQ-1,Introduction to Electrical Circuits,DEET-4,14/07/2023
+20230714-001,2021-00265-LQ-1,Applied Electronics,DEET-4,14/07/2023
+20241215-001,2024-00279-LQ-1,Basic Electrical Engineering,DEET-1,15/12/2024
+20241215-001,2024-00279-LQ-1,Applied Electronics,DEET-1,15/12/2024
+20241215-001,2024-00279-LQ-1,Fundamentals of Electromechanical Systems,DEET-1,15/12/2024
+20241215-001,2024-00279-LQ-1,Electrical Safety Standards,DEET-1,15/12/2024
+20241215-001,2024-00279-LQ-1,Electrical Wiring and Design,DEET-1,15/12/2024
+20241215-001,2024-00279-LQ-1,Instrumentation and Measurement,DEET-1,15/12/2024
+20230907-001,2024-00139-LQ-1,Digital and Analog Devices,DEET-1,7/9/2023
+20230907-001,2024-00139-LQ-1,Applied Electronics,DEET-1,7/9/2023
+20230907-001,2024-00139-LQ-1,Introduction to Electrical Circuits,DEET-1,7/9/2023
+20230907-001,2024-00139-LQ-1,Instrumentation and Measurement,DEET-1,7/9/2023
+20230120-002,2022-00253-LQ-1,Instrumentation and Measurement,DEET-3,20/01/2023
+20230120-002,2022-00253-LQ-1,Electrical Safety Standards,DEET-3,20/01/2023
+20230120-002,2022-00253-LQ-1,Industrial Motor Control,DEET-3,20/01/2023
+20230120-002,2022-00253-LQ-1,Applied Electronics,DEET-3,20/01/2023
+20230120-002,2022-00253-LQ-1,Power Systems and Transmission,DEET-3,20/01/2023
+20240731-005,2024-00347-LQ-0,Introduction to Electrical Circuits,DEET-1,31/07/2024
+20240731-005,2024-00347-LQ-0,Power Systems and Transmission,DEET-1,31/07/2024
+20240731-005,2024-00347-LQ-0,Industrial Motor Control,DEET-1,31/07/2024
+20240731-005,2024-00347-LQ-0,Fundamentals of Electromechanical Systems,DEET-1,31/07/2024
+20240731-005,2024-00347-LQ-0,Digital and Analog Devices,DEET-1,31/07/2024
+20230112-001,2023-00362-LQ-1,Basic Electrical Engineering,DEET-2,12/1/2023
+20230112-001,2023-00362-LQ-1,Electrical Wiring and Design,DEET-2,12/1/2023
+20230112-001,2023-00362-LQ-1,Digital and Analog Devices,DEET-2,12/1/2023
+20230112-001,2023-00362-LQ-1,Applied Electronics,DEET-2,12/1/2023
+20230112-001,2023-00362-LQ-1,Electrical Safety Standards,DEET-2,12/1/2023
+20240523-003,2023-00314-LQ-0,Applied Electronics,DEET-2,23/05/2024
+20240523-003,2023-00314-LQ-0,Power Systems and Transmission,DEET-2,23/05/2024
+20240726-004,2024-00216-LQ-0,Electrical Wiring and Design,DEET-1,26/07/2024
+20240726-004,2024-00216-LQ-0,Industrial Motor Control,DEET-1,26/07/2024
+20240726-004,2024-00216-LQ-0,Basic Electrical Engineering,DEET-1,26/07/2024
+20240726-004,2024-00216-LQ-0,Electrical Safety Standards,DEET-1,26/07/2024
+20240726-004,2024-00216-LQ-0,Power Systems and Transmission,DEET-1,26/07/2024
+20240309-002,2022-00401-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,9/3/2024
+20240309-002,2022-00401-LQ-0,Electrical Safety Standards,DEET-3,9/3/2024
+20240309-002,2022-00401-LQ-0,Electrical Wiring and Design,DEET-3,9/3/2024
+20240309-002,2022-00401-LQ-0,Digital and Analog Devices,DEET-3,9/3/2024
+20230519-001,2021-00266-LQ-0,Electrical Safety Standards,DEET-4,19/05/2023
+20230519-001,2021-00266-LQ-0,Industrial Motor Control,DEET-4,19/05/2023
+20230519-001,2021-00266-LQ-0,Basic Electrical Engineering,DEET-4,19/05/2023
+20230519-001,2021-00266-LQ-0,Power Systems and Transmission,DEET-4,19/05/2023
+20230519-001,2021-00266-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,19/05/2023
+20230519-001,2021-00266-LQ-0,Digital and Analog Devices,DEET-4,19/05/2023
+20240703-001,2023-00485-LQ-0,Introduction to Electrical Circuits,DEET-2,3/7/2024
+20240703-001,2023-00485-LQ-0,Applied Electronics,DEET-2,3/7/2024
+20240703-001,2023-00485-LQ-0,Instrumentation and Measurement,DEET-2,3/7/2024
+20240703-001,2023-00485-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,3/7/2024
+20240703-001,2023-00485-LQ-0,Electrical Wiring and Design,DEET-2,3/7/2024
+20240703-001,2023-00485-LQ-0,Power Systems and Transmission,DEET-2,3/7/2024
+20240312-001,2022-00292-LQ-0,Power Systems and Transmission,DEET-3,12/3/2024
+20240312-001,2022-00292-LQ-0,Instrumentation and Measurement,DEET-3,12/3/2024
+20240312-001,2022-00292-LQ-0,Industrial Motor Control,DEET-3,12/3/2024
+20240312-001,2022-00292-LQ-0,Basic Electrical Engineering,DEET-3,12/3/2024
+20230514-002,2024-00326-LQ-0,Applied Electronics,DEET-1,14/05/2023
+20230514-002,2024-00326-LQ-0,Electrical Wiring and Design,DEET-1,14/05/2023
+20230514-002,2024-00326-LQ-0,Introduction to Electrical Circuits,DEET-1,14/05/2023
+20241019-001,2023-00304-LQ-1,Electrical Safety Standards,DEET-2,19/10/2024
+20241019-001,2023-00304-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,19/10/2024
+20241019-001,2023-00304-LQ-1,Applied Electronics,DEET-2,19/10/2024
+20241019-001,2023-00304-LQ-1,Introduction to Electrical Circuits,DEET-2,19/10/2024
+20241019-001,2023-00304-LQ-1,Digital and Analog Devices,DEET-2,19/10/2024
+20241019-001,2023-00304-LQ-1,Power Systems and Transmission,DEET-2,19/10/2024
+20230813-004,2024-00112-LQ-0,Digital and Analog Devices,DEET-1,13/08/2023
+20230813-004,2024-00112-LQ-0,Electrical Safety Standards,DEET-1,13/08/2023
+20240916-002,2022-00377-LQ-0,Introduction to Electrical Circuits,DEET-3,16/09/2024
+20240916-002,2022-00377-LQ-0,Power Systems and Transmission,DEET-3,16/09/2024
+20250117-001,2023-00318-LQ-0,Instrumentation and Measurement,DEET-2,17/01/2025
+20250117-001,2023-00318-LQ-0,Introduction to Electrical Circuits,DEET-2,17/01/2025
+20250117-001,2023-00318-LQ-0,Basic Electrical Engineering,DEET-2,17/01/2025
+20250117-001,2023-00318-LQ-0,Digital and Analog Devices,DEET-2,17/01/2025
+20231114-002,2021-00420-LQ-0,Power Systems and Transmission,DEET-4,14/11/2023
+20231114-002,2021-00420-LQ-0,Electrical Safety Standards,DEET-4,14/11/2023
+20231114-002,2021-00420-LQ-0,Introduction to Electrical Circuits,DEET-4,14/11/2023
+20231114-002,2021-00420-LQ-0,Basic Electrical Engineering,DEET-4,14/11/2023
+20231114-002,2021-00420-LQ-0,Instrumentation and Measurement,DEET-4,14/11/2023
+20250110-001,2023-00427-LQ-1,Applied Electronics,DEET-2,10/1/2025
+20250110-001,2023-00427-LQ-1,Industrial Motor Control,DEET-2,10/1/2025
+20250110-001,2023-00427-LQ-1,Electrical Wiring and Design,DEET-2,10/1/2025
+20250110-001,2023-00427-LQ-1,Power Systems and Transmission,DEET-2,10/1/2025
+20250110-001,2023-00427-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,10/1/2025
+20250110-001,2023-00427-LQ-1,Instrumentation and Measurement,DEET-2,10/1/2025
+20230616-001,2023-00397-LQ-0,Introduction to Electrical Circuits,DEET-2,16/06/2023
+20230616-001,2023-00397-LQ-0,Basic Electrical Engineering,DEET-2,16/06/2023
+20230616-001,2023-00397-LQ-0,Power Systems and Transmission,DEET-2,16/06/2023
+20230616-001,2023-00397-LQ-0,Fundamentals of Electromechanical Systems,DEET-2,16/06/2023
+20230616-001,2023-00397-LQ-0,Electrical Safety Standards,DEET-2,16/06/2023
+20230410-001,2021-00425-LQ-0,Fundamentals of Electromechanical Systems,DEET-4,10/4/2023
+20230410-001,2021-00425-LQ-0,Electrical Safety Standards,DEET-4,10/4/2023
+20231018-003,2022-00408-LQ-0,Electrical Wiring and Design,DEET-3,18/10/2023
+20231018-003,2022-00408-LQ-0,Digital and Analog Devices,DEET-3,18/10/2023
+20231018-003,2022-00408-LQ-0,Introduction to Electrical Circuits,DEET-3,18/10/2023
+20231018-003,2022-00408-LQ-0,Applied Electronics,DEET-3,18/10/2023
+20231018-003,2022-00408-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,18/10/2023
+20250214-003,2021-00366-LQ-1,Industrial Motor Control,DEET-4,14/02/2025
+20250214-003,2021-00366-LQ-1,Electrical Wiring and Design,DEET-4,14/02/2025
+20250214-003,2021-00366-LQ-1,Introduction to Electrical Circuits,DEET-4,14/02/2025
+20230203-001,2024-00212-LQ-0,Instrumentation and Measurement,DEET-1,3/2/2023
+20230203-001,2024-00212-LQ-0,Digital and Analog Devices,DEET-1,3/2/2023
+20241002-001,2022-00382-LQ-1,Electrical Safety Standards,DEET-3,2/10/2024
+20241002-001,2022-00382-LQ-1,Applied Electronics,DEET-3,2/10/2024
+20241002-001,2022-00382-LQ-1,Basic Electrical Engineering,DEET-3,2/10/2024
+20241002-001,2022-00382-LQ-1,Fundamentals of Electromechanical Systems,DEET-3,2/10/2024
+20241002-001,2022-00382-LQ-1,Industrial Motor Control,DEET-3,2/10/2024
+20241002-001,2022-00382-LQ-1,Introduction to Electrical Circuits,DEET-3,2/10/2024
+20240127-002,2021-00165-LQ-1,Power Systems and Transmission,DEET-4,27/01/2024
+20240127-002,2021-00165-LQ-1,Basic Electrical Engineering,DEET-4,27/01/2024
+20240127-002,2021-00165-LQ-1,Electrical Wiring and Design,DEET-4,27/01/2024
+20240127-002,2021-00165-LQ-1,Applied Electronics,DEET-4,27/01/2024
+20240206-001,2023-00138-LQ-1,Industrial Motor Control,DEET-2,6/2/2024
+20240206-001,2023-00138-LQ-1,Introduction to Electrical Circuits,DEET-2,6/2/2024
+20240206-001,2023-00138-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,6/2/2024
+20240206-001,2023-00138-LQ-1,Electrical Wiring and Design,DEET-2,6/2/2024
+20240617-002,2024-00369-LQ-0,Electrical Safety Standards,DEET-1,17/06/2024
+20240617-002,2024-00369-LQ-0,Basic Electrical Engineering,DEET-1,17/06/2024
+20240617-002,2024-00369-LQ-0,Instrumentation and Measurement,DEET-1,17/06/2024
+20240617-002,2024-00369-LQ-0,Fundamentals of Electromechanical Systems,DEET-1,17/06/2024
+20240617-002,2024-00369-LQ-0,Electrical Wiring and Design,DEET-1,17/06/2024
+20240617-002,2024-00369-LQ-0,Industrial Motor Control,DEET-1,17/06/2024
+20230503-002,2022-00483-LQ-0,Power Systems and Transmission,DEET-3,3/5/2023
+20230503-002,2022-00483-LQ-0,Digital and Analog Devices,DEET-3,3/5/2023
+20230503-002,2022-00483-LQ-0,Electrical Safety Standards,DEET-3,3/5/2023
+20240915-001,2022-00491-LQ-0,Fundamentals of Electromechanical Systems,DEET-3,15/09/2024
+20240915-001,2022-00491-LQ-0,Basic Electrical Engineering,DEET-3,15/09/2024
+20240915-001,2022-00491-LQ-0,Applied Electronics,DEET-3,15/09/2024
+20250326-001,2023-00151-LQ-1,Basic Electrical Engineering,DEET-2,26/03/2025
+20250326-001,2023-00151-LQ-1,Fundamentals of Electromechanical Systems,DEET-2,26/03/2025
+20250326-001,2023-00151-LQ-1,Electrical Wiring and Design,DEET-2,26/03/2025
+20250326-001,2023-00151-LQ-1,Electrical Safety Standards,DEET-2,26/03/2025
+20250326-001,2023-00151-LQ-1,Power Systems and Transmission,DEET-2,26/03/2025
+20250326-001,2023-00151-LQ-1,Instrumentation and Measurement,DEET-2,26/03/2025
+20230815-002,2021-00024-LQ-1,Electrical Wiring and Design,DEET-4,15/08/2023
+20230815-002,2021-00024-LQ-1,Basic Electrical Engineering,DEET-4,15/08/2023
+20230815-002,2021-00024-LQ-1,Industrial Motor Control,DEET-4,15/08/2023
+20230815-002,2021-00024-LQ-1,Power Systems and Transmission,DEET-4,15/08/2023
+20230728-002,2022-00497-LQ-1,Instrumentation and Measurement,DEET-3,28/07/2023
+20230728-002,2022-00497-LQ-1,Digital and Analog Devices,DEET-3,28/07/2023
+20230728-002,2022-00497-LQ-1,Power Systems and Transmission,DEET-3,28/07/2023
+20230728-002,2022-00497-LQ-1,Introduction to Electrical Circuits,DEET-3,28/07/2023
+20230728-002,2022-00497-LQ-1,Fundamentals of Electromechanical Systems,DEET-3,28/07/2023
+20230728-002,2022-00497-LQ-1,Electrical Safety Standards,DEET-3,28/07/2023
+20241115-003,2024-00456-LQ-0,Industrial Motor Control,DEET-1,15/11/2024
+20241115-003,2024-00456-LQ-0,Fundamentals of Electromechanical Systems,DEET-1,15/11/2024
+20240802-001,2021-00100-LQ-1,Applied Electronics,DEET-4,2/8/2024
+20240802-001,2021-00100-LQ-1,Introduction to Electrical Circuits,DEET-4,2/8/2024
+20240802-001,2021-00100-LQ-1,Basic Electrical Engineering,DEET-4,2/8/2024
+20240802-001,2021-00100-LQ-1,Electrical Safety Standards,DEET-4,2/8/2024
+20240802-001,2021-00100-LQ-1,Fundamentals of Electromechanical Systems,DEET-4,2/8/2024
+20241211-003,2021-00104-LQ-1,Electrical Wiring and Design,DEET-4,11/12/2024
+20241211-003,2021-00104-LQ-1,Power Systems and Transmission,DEET-4,11/12/2024
+20241211-003,2021-00104-LQ-1,Industrial Motor Control,DEET-4,11/12/2024
+20241211-003,2021-00104-LQ-1,Fundamentals of Electromechanical Systems,DEET-4,11/12/2024
+20241211-003,2021-00104-LQ-1,Electrical Safety Standards,DEET-4,11/12/2024
+20231011-003,2022-00310-LQ-0,Instrumentation and Measurement,DEET-3,11/10/2023
+20231011-003,2022-00310-LQ-0,Basic Electrical Engineering,DEET-3,11/10/2023
+20231011-003,2022-00310-LQ-0,Digital and Analog Devices,DEET-3,11/10/2023
+20231011-003,2022-00310-LQ-0,Introduction to Electrical Circuits,DEET-3,11/10/2023
+20231011-003,2022-00310-LQ-0,Applied Electronics,DEET-3,11/10/2023
+20240202-002,2021-00446-LQ-1,Electrical Wiring and Design,DEET-4,2/2/2024
+20240202-002,2021-00446-LQ-1,Basic Electrical Engineering,DEET-4,2/2/2024
+20240202-002,2021-00446-LQ-1,Applied Electronics,DEET-4,2/2/2024
+20240202-002,2021-00446-LQ-1,Fundamentals of Electromechanical Systems,DEET-4,2/2/2024
+20240327-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,27/03/2024
+20240327-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,27/03/2024
+20240327-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,27/03/2024
+20230607-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,7/6/2023
+20230607-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,7/6/2023
+20240419-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,19/04/2024
+20240419-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,19/04/2024
+20240419-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,19/04/2024
+20240419-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,19/04/2024
+20230703-002,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,3/7/2023
+20230703-002,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,3/7/2023
+20230703-002,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,3/7/2023
+20231111-003,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,11/11/2023
+20230215-003,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,15/02/2023
+20230215-003,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,15/02/2023
+20230215-003,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,15/02/2023
+20230215-003,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,15/02/2023
+20230215-003,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,15/02/2023
+20241021-002,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,21/10/2024
+20241021-002,2024-00322-LQ-1,Administrative Office Management,DOMT-4,21/10/2024
+20241021-002,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,21/10/2024
+20241021-002,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,21/10/2024
+20250222-002,2024-00322-LQ-1,Administrative Office Management,DOMT-4,22/02/2025
+20230826-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,26/08/2023
+20230826-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,26/08/2023
+20230826-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,26/08/2023
+20230826-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,26/08/2023
+20230826-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,26/08/2023
+20250209-002,2024-00322-LQ-1,Administrative Office Management,DOMT-4,9/2/2025
+20250209-002,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,9/2/2025
+20250209-002,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,9/2/2025
+20250209-002,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,9/2/2025
+20250209-002,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,9/2/2025
+20230505-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,5/5/2023
+20230505-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,5/5/2023
+20230505-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,5/5/2023
+20240127-002,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,27/01/2024
+20240127-002,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,27/01/2024
+20240127-002,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,27/01/2024
+20240127-002,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,27/01/2024
+20240129-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,29/01/2024
+20240129-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,29/01/2024
+20240129-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,29/01/2024
+20240129-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,29/01/2024
+20230430-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,30/04/2023
+20230430-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,30/04/2023
+20230430-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,30/04/2023
+20240513-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,13/05/2024
+20240513-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,13/05/2024
+20240513-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,13/05/2024
+20240513-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,13/05/2024
+20250121-003,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,21/01/2025
+20250121-003,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,21/01/2025
+20250121-003,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,21/01/2025
+20250121-003,2024-00322-LQ-1,Administrative Office Management,DOMT-4,21/01/2025
+20250121-003,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,21/01/2025
+20240215-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,15/02/2024
+20240215-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,15/02/2024
+20240215-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,15/02/2024
+20240215-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,15/02/2024
+20240215-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,15/02/2024
+20230724-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,24/07/2023
+20230724-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,24/07/2023
+20230724-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,24/07/2023
+20230724-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,24/07/2023
+20241224-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,24/12/2024
+20241224-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,24/12/2024
+20241224-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,24/12/2024
+20241224-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,24/12/2024
+20241224-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,24/12/2024
+20240430-004,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,30/04/2024
+20240430-004,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,30/04/2024
+20240430-004,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,30/04/2024
+20240430-004,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,30/04/2024
+20230510-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,10/5/2023
+20230510-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,10/5/2023
+20230510-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,10/5/2023
+20230510-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,10/5/2023
+20230510-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,10/5/2023
+20240312-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,12/3/2024
+20240312-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,12/3/2024
+20240312-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,12/3/2024
+20240312-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,12/3/2024
+20240502-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,2/5/2024
+20240502-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,2/5/2024
+20240502-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,2/5/2024
+20240727-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,27/07/2024
+20240727-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,27/07/2024
+20240727-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,27/07/2024
+20240727-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,27/07/2024
+20240727-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,27/07/2024
+20240925-002,2024-00322-LQ-1,Administrative Office Management,DOMT-4,25/09/2024
+20230213-003,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,13/02/2023
+20230213-003,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,13/02/2023
+20240505-002,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,5/5/2024
+20240505-002,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,5/5/2024
+20240505-002,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,5/5/2024
+20240505-002,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,5/5/2024
+20230228-003,2024-00322-LQ-1,Administrative Office Management,DOMT-4,28/02/2023
+20230228-003,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,28/02/2023
+20230228-003,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,28/02/2023
+20230228-003,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,28/02/2023
+20230228-003,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,28/02/2023
+20230729-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,29/07/2023
+20230729-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,29/07/2023
+20230729-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,29/07/2023
+20230729-001,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,29/07/2023
+20230729-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,29/07/2023
+20241208-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,8/12/2024
+20240802-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,2/8/2024
+20240802-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,2/8/2024
+20240524-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,24/05/2024
+20240524-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,24/05/2024
+20240524-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,24/05/2024
+20240524-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,24/05/2024
+20250117-001,2024-00322-LQ-1,Computer Applications in the Office,DOMT-4,17/01/2025
+20250117-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,17/01/2025
+20250117-001,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,17/01/2025
+20250117-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,17/01/2025
+20240916-002,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,16/09/2024
+20240916-002,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,16/09/2024
+20240916-002,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,16/09/2024
+20240916-002,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,16/09/2024
+20241009-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,9/10/2024
+20241009-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,9/10/2024
+20241009-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,9/10/2024
+20241009-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,9/10/2024
+20241009-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,9/10/2024
+20230213-004,2024-00322-LQ-1,Business Correspondence and Communication,DOMT-4,13/02/2023
+20230213-004,2024-00322-LQ-1,Administrative Office Management,DOMT-4,13/02/2023
+20230213-004,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,13/02/2023
+20230213-004,2024-00322-LQ-1,Shorthand and Transcription,DOMT-4,13/02/2023
+20230501-001,2024-00322-LQ-1,Legal Aspects of Office Procedures,DOMT-4,1/5/2023
+20230501-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,1/5/2023
+20230601-001,2024-00322-LQ-1,Office Productivity Tools,DOMT-4,1/6/2023
+20230601-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,1/6/2023
+20230601-001,2024-00322-LQ-1,Office Procedures and Management,DOMT-4,1/6/2023
+20240125-001,2024-00322-LQ-1,Workplace Professionalism and Ethics,DOMT-4,25/01/2024
+20240125-001,2024-00322-LQ-1,Human Behavior in Organization,DOMT-4,25/01/2024
+20240125-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,25/01/2024
+20241014-001,2024-00322-LQ-1,Records Management for Office Professionals,DOMT-4,14/10/2024
+20241014-001,2024-00322-LQ-1,Administrative Office Management,DOMT-4,14/10/2024
+20240511-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,11/5/2024
+20240511-002,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,11/5/2024
+20240511-002,2024-00114-LQ-0,Administrative Office Management,DOMT-3,11/5/2024
+20240511-002,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,11/5/2024
+20240511-002,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,11/5/2024
+20240104-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,4/1/2024
+20240104-001,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,4/1/2024
+20240104-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,4/1/2024
+20240104-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,4/1/2024
+20230203-001,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,3/2/2023
+20230203-001,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,3/2/2023
+20230203-001,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,3/2/2023
+20230203-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,3/2/2023
+20241013-006,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,13/10/2024
+20231220-001,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,20/12/2023
+20241025-004,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,25/10/2024
+20240406-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,6/4/2024
+20230727-005,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,27/07/2023
+20230727-005,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,27/07/2023
+20230727-005,2024-00114-LQ-0,Human Behavior in Organization,DOMT-3,27/07/2023
+20230725-001,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,25/07/2023
+20230725-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,25/07/2023
+20230725-001,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,25/07/2023
+20230725-001,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,25/07/2023
+20230725-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,25/07/2023
+20240325-001,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,25/03/2024
+20240325-001,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,25/03/2024
+20240325-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,25/03/2024
+20240325-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,25/03/2024
+20240325-001,2024-00114-LQ-0,Administrative Office Management,DOMT-3,25/03/2024
+20240414-003,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,14/04/2024
+20240414-003,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,14/04/2024
+20240414-003,2024-00114-LQ-0,Administrative Office Management,DOMT-3,14/04/2024
+20240414-003,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,14/04/2024
+20230419-001,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,19/04/2023
+20230425-002,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,25/04/2023
+20230425-002,2024-00114-LQ-0,Administrative Office Management,DOMT-3,25/04/2023
+20230425-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,25/04/2023
+20241209-002,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,9/12/2024
+20241209-002,2024-00114-LQ-0,Human Behavior in Organization,DOMT-3,9/12/2024
+20241209-002,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,9/12/2024
+20241209-002,2024-00114-LQ-0,Administrative Office Management,DOMT-3,9/12/2024
+20241209-002,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,9/12/2024
+20230607-004,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,7/6/2023
+20230607-004,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,7/6/2023
+20230607-004,2024-00114-LQ-0,Administrative Office Management,DOMT-3,7/6/2023
+20230607-004,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,7/6/2023
+20230401-001,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,1/4/2023
+20230401-001,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,1/4/2023
+20230401-001,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,1/4/2023
+20230420-001,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,20/04/2023
+20230420-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,20/04/2023
+20230420-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,20/04/2023
+20250212-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,12/2/2025
+20250212-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,12/2/2025
+20250212-001,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,12/2/2025
+20250212-001,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,12/2/2025
+20230807-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,7/8/2023
+20240425-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,25/04/2024
+20240425-001,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,25/04/2024
+20240425-001,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,25/04/2024
+20241221-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,21/12/2024
+20230315-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,15/03/2023
+20250107-003,2024-00114-LQ-0,Administrative Office Management,DOMT-3,7/1/2025
+20250107-003,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,7/1/2025
+20250107-003,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,7/1/2025
+20250107-003,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,7/1/2025
+20250107-003,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,7/1/2025
+20230422-002,2024-00114-LQ-0,Human Behavior in Organization,DOMT-3,22/04/2023
+20230422-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,22/04/2023
+20230422-002,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,22/04/2023
+20230422-002,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,22/04/2023
+20230422-002,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,22/04/2023
+20231128-003,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,28/11/2023
+20231128-003,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,28/11/2023
+20240624-003,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,24/06/2024
+20241106-001,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,6/11/2024
+20241106-001,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,6/11/2024
+20240312-002,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,12/3/2024
+20240312-002,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,12/3/2024
+20240312-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,12/3/2024
+20240720-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,20/07/2024
+20240720-002,2024-00114-LQ-0,Workplace Professionalism and Ethics,DOMT-3,20/07/2024
+20240226-002,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,26/02/2024
+20240226-002,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,26/02/2024
+20230226-001,2024-00114-LQ-0,Records Management for Office Professionals,DOMT-3,26/02/2023
+20230226-001,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,26/02/2023
+20230226-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,26/02/2023
+20250101-002,2024-00114-LQ-0,Shorthand and Transcription,DOMT-3,1/1/2025
+20230625-002,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,25/06/2023
+20240626-001,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,26/06/2024
+20241229-002,2024-00114-LQ-0,Office Productivity Tools,DOMT-3,29/12/2024
+20241229-002,2024-00114-LQ-0,Business Correspondence and Communication,DOMT-3,29/12/2024
+20241229-002,2024-00114-LQ-0,Legal Aspects of Office Procedures,DOMT-3,29/12/2024
+20241229-002,2024-00114-LQ-0,Office Procedures and Management,DOMT-3,29/12/2024
+20241229-002,2024-00114-LQ-0,Computer Applications in the Office,DOMT-3,29/12/2024
+20240925-003,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,25/09/2024
+20240925-003,2024-00529-LQ-0,Computer Applications in the Office,DOMT-2,25/09/2024
+20231121-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,21/11/2023
+20231121-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,21/11/2023
+20231121-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,21/11/2023
+20230111-002,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,11/1/2023
+20240205-003,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,5/2/2024
+20240205-003,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,5/2/2024
+20240205-003,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,5/2/2024
+20240205-003,2024-00529-LQ-0,Administrative Office Management,DOMT-2,5/2/2024
+20240205-003,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,5/2/2024
+20230220-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,20/02/2023
+20240807-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,7/8/2024
+20240807-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,7/8/2024
+20240807-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,7/8/2024
+20240807-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,7/8/2024
+20240807-001,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,7/8/2024
+20230619-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,19/06/2023
+20230619-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,19/06/2023
+20230619-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,19/06/2023
+20230619-001,2024-00529-LQ-0,Computer Applications in the Office,DOMT-2,19/06/2023
+20230619-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,19/06/2023
+20230201-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,1/2/2023
+20230201-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,1/2/2023
+20231024-002,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,24/10/2023
+20231024-002,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,24/10/2023
+20231024-002,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,24/10/2023
+20231024-002,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,24/10/2023
+20231024-002,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,24/10/2023
+20230330-001,2024-00529-LQ-0,Administrative Office Management,DOMT-2,30/03/2023
+20230330-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,30/03/2023
+20230330-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,30/03/2023
+20230330-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,30/03/2023
+20240602-003,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,2/6/2024
+20240602-003,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,2/6/2024
+20240602-003,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,2/6/2024
+20240602-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,2/6/2024
+20240602-003,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,2/6/2024
+20240228-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,28/02/2024
+20241006-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,6/10/2024
+20241006-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,6/10/2024
+20241006-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,6/10/2024
+20241006-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,6/10/2024
+20230525-003,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,25/05/2023
+20230525-003,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,25/05/2023
+20230525-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,25/05/2023
+20230525-003,2024-00529-LQ-0,Administrative Office Management,DOMT-2,25/05/2023
+20241217-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,17/12/2024
+20241217-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,17/12/2024
+20241217-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,17/12/2024
+20241121-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,21/11/2024
+20241121-001,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,21/11/2024
+20241121-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,21/11/2024
+20250302-002,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,2/3/2025
+20250302-002,2024-00529-LQ-0,Administrative Office Management,DOMT-2,2/3/2025
+20231103-004,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,3/11/2023
+20231103-004,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,3/11/2023
+20231103-004,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,3/11/2023
+20240312-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,12/3/2024
+20240312-003,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,12/3/2024
+20240312-003,2024-00529-LQ-0,Administrative Office Management,DOMT-2,12/3/2024
+20250302-003,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,2/3/2025
+20250302-003,2024-00529-LQ-0,Computer Applications in the Office,DOMT-2,2/3/2025
+20250302-003,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,2/3/2025
+20250302-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,2/3/2025
+20231116-005,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,16/11/2023
+20231116-005,2024-00529-LQ-0,Administrative Office Management,DOMT-2,16/11/2023
+20240619-004,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,19/06/2024
+20240619-004,2024-00529-LQ-0,Administrative Office Management,DOMT-2,19/06/2024
+20240619-004,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,19/06/2024
+20240619-004,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,19/06/2024
+20240619-004,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,19/06/2024
+20240828-002,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,28/08/2024
+20240828-002,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,28/08/2024
+20231209-002,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,9/12/2023
+20231209-002,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,9/12/2023
+20231209-002,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,9/12/2023
+20231209-002,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,9/12/2023
+20231209-002,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,9/12/2023
+20231219-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,19/12/2023
+20241029-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,29/10/2024
+20241029-001,2024-00529-LQ-0,Computer Applications in the Office,DOMT-2,29/10/2024
+20241029-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,29/10/2024
+20240219-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,19/02/2024
+20240219-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,19/02/2024
+20240219-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,19/02/2024
+20240219-001,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,19/02/2024
+20230802-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,2/8/2023
+20230802-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,2/8/2023
+20230802-001,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,2/8/2023
+20230802-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,2/8/2023
+20230802-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,2/8/2023
+20240813-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,13/08/2024
+20240813-001,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,13/08/2024
+20240813-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,13/08/2024
+20230319-002,2024-00529-LQ-0,Computer Applications in the Office,DOMT-2,19/03/2023
+20230319-002,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,19/03/2023
+20230319-002,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,19/03/2023
+20230319-002,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,19/03/2023
+20230420-002,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,20/04/2023
+20230420-002,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,20/04/2023
+20240701-001,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,1/7/2024
+20230825-003,2024-00529-LQ-0,Administrative Office Management,DOMT-2,25/08/2023
+20230825-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,25/08/2023
+20230825-003,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,25/08/2023
+20230825-003,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,25/08/2023
+20230825-003,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,25/08/2023
+20230411-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,11/4/2023
+20230411-001,2024-00529-LQ-0,Administrative Office Management,DOMT-2,11/4/2023
+20230411-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,11/4/2023
+20230411-001,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,11/4/2023
+20230411-001,2024-00529-LQ-0,Workplace Professionalism and Ethics,DOMT-2,11/4/2023
+20230514-002,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,14/05/2023
+20240524-003,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,24/05/2024
+20240524-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,24/05/2024
+20250217-001,2024-00529-LQ-0,Administrative Office Management,DOMT-2,17/02/2025
+20250217-001,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,17/02/2025
+20250217-001,2024-00529-LQ-0,Records Management for Office Professionals,DOMT-2,17/02/2025
+20241120-004,2024-00529-LQ-0,Administrative Office Management,DOMT-2,20/11/2024
+20230425-003,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,25/04/2023
+20230425-003,2024-00529-LQ-0,Legal Aspects of Office Procedures,DOMT-2,25/04/2023
+20230425-003,2024-00529-LQ-0,Office Productivity Tools,DOMT-2,25/04/2023
+20230425-003,2024-00529-LQ-0,Human Behavior in Organization,DOMT-2,25/04/2023
+20230425-003,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,25/04/2023
+20241124-001,2024-00529-LQ-0,Administrative Office Management,DOMT-2,24/11/2024
+20241124-001,2024-00529-LQ-0,Business Correspondence and Communication,DOMT-2,24/11/2024
+20241124-001,2024-00529-LQ-0,Shorthand and Transcription,DOMT-2,24/11/2024
+20231023-004,2024-00529-LQ-0,Office Procedures and Management,DOMT-2,23/10/2023
+20240418-002,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,18/04/2024
+20240418-002,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,18/04/2024
+20240418-002,2024-00703-LQ-1,Administrative Office Management,DOMT-1,18/04/2024
+20240117-002,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,17/01/2024
+20240117-002,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,17/01/2024
+20240117-002,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,17/01/2024
+20241023-004,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,23/10/2024
+20241023-004,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,23/10/2024
+20230130-001,2024-00703-LQ-1,Administrative Office Management,DOMT-1,30/01/2023
+20230130-001,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,30/01/2023
+20241202-001,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,2/12/2024
+20241202-001,2024-00703-LQ-1,Administrative Office Management,DOMT-1,2/12/2024
+20241202-001,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,2/12/2024
+20241202-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,2/12/2024
+20240626-003,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,26/06/2024
+20240626-003,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,26/06/2024
+20240626-003,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,26/06/2024
+20240626-003,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,26/06/2024
+20240626-003,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,26/06/2024
+20230710-007,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,10/7/2023
+20230710-007,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,10/7/2023
+20230710-007,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,10/7/2023
+20230710-007,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,10/7/2023
+20250303-001,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,3/3/2025
+20250303-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,3/3/2025
+20250303-001,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,3/3/2025
+20240712-004,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,12/7/2024
+20240712-004,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,12/7/2024
+20241107-001,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,7/11/2024
+20240922-001,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,22/09/2024
+20240922-001,2024-00703-LQ-1,Administrative Office Management,DOMT-1,22/09/2024
+20240922-001,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,22/09/2024
+20240922-001,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,22/09/2024
+20240922-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,22/09/2024
+20241211-001,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,11/12/2024
+20241211-001,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,11/12/2024
+20241211-001,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,11/12/2024
+20241211-001,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,11/12/2024
+20241211-001,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,11/12/2024
+20240307-001,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,7/3/2024
+20240307-001,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,7/3/2024
+20240307-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,7/3/2024
+20230305-002,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,5/3/2023
+20230305-002,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,5/3/2023
+20230305-002,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,5/3/2023
+20240220-001,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,20/02/2024
+20241024-003,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,24/10/2024
+20230629-001,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,29/06/2023
+20230629-001,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,29/06/2023
+20230629-001,2024-00703-LQ-1,Administrative Office Management,DOMT-1,29/06/2023
+20230629-001,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,29/06/2023
+20230629-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,29/06/2023
+20240725-001,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,25/07/2024
+20230709-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,9/7/2023
+20250125-002,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,25/01/2025
+20230323-001,2024-00703-LQ-1,Legal Aspects of Office Procedures,DOMT-1,23/03/2023
+20230323-001,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,23/03/2023
+20230323-001,2024-00703-LQ-1,Administrative Office Management,DOMT-1,23/03/2023
+20230323-001,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,23/03/2023
+20230323-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,23/03/2023
+20240930-001,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,30/09/2024
+20240930-001,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,30/09/2024
+20230419-002,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,19/04/2023
+20230419-002,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,19/04/2023
+20230419-002,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,19/04/2023
+20230419-002,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,19/04/2023
+20241225-001,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,25/12/2024
+20241225-001,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,25/12/2024
+20241225-001,2024-00703-LQ-1,Workplace Professionalism and Ethics,DOMT-1,25/12/2024
+20241225-001,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,25/12/2024
+20240404-001,2024-00703-LQ-1,Shorthand and Transcription,DOMT-1,4/4/2024
+20240404-001,2024-00703-LQ-1,Human Behavior in Organization,DOMT-1,4/4/2024
+20240404-001,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,4/4/2024
+20240404-001,2024-00703-LQ-1,Office Productivity Tools,DOMT-1,4/4/2024
+20240524-004,2024-00703-LQ-1,Office Procedures and Management,DOMT-1,24/05/2024
+20240524-004,2024-00703-LQ-1,Administrative Office Management,DOMT-1,24/05/2024
+20240524-004,2024-00703-LQ-1,Computer Applications in the Office,DOMT-1,24/05/2024
+20240524-004,2024-00703-LQ-1,Business Correspondence and Communication,DOMT-1,24/05/2024
+20240405-001,2024-00703-LQ-1,Records Management for Office Professionals,DOMT-1,5/4/2024
+20230218-005,2023-00563-LQ-0,Data Structures in C,DIT-3,25/10/2023
+20230218-005,2023-00563-LQ-0,Artificial Intelligence,DIT-3,25/10/2023
+20230303-005,2023-00955-LQ-0,Computer Networks,DIT-2,20/11/2024
+20230303-005,2023-00955-LQ-0,Artificial Intelligence,DIT-2,20/11/2024
+20230303-005,2023-00955-LQ-0,Data Structures in C,DIT-2,20/11/2024
+20230303-005,2023-00955-LQ-0,Database System Concepts,DIT-2,20/11/2024
+20230323-004,2023-00709-LQ-0,Data Structures in C,DIT-3,17/09/2024
+20230323-004,2023-00709-LQ-0,Artificial Intelligence,DIT-3,17/09/2024
+20230323-004,2023-00709-LQ-0,Introduction to Programming,DIT-3,17/09/2024
+20230323-004,2023-00709-LQ-0,Computer Networks,DIT-3,17/09/2024
+20230323-004,2023-00709-LQ-0,Database System Concepts,DIT-3,17/09/2024
+20230325-001,2023-00897-LQ-0,Computer Networks,DIT-3,12/1/2023
+20230325-001,2023-00897-LQ-0,Artificial Intelligence,DIT-3,12/1/2023
+20230325-001,2023-00897-LQ-0,Introduction to Programming,DIT-3,12/1/2023
+20230325-001,2023-00897-LQ-0,Data Structures in C,DIT-3,12/1/2023
+20230325-001,2023-00897-LQ-0,Database System Concepts,DIT-3,12/1/2023
+20230325-002,2023-00384-LQ-0,Introduction to Programming,DIT-3,5/1/2024
+20230325-002,2023-00384-LQ-0,Artificial Intelligence,DIT-3,5/1/2024
+20230331-003,2022-00100-LQ-1,Database System Concepts,DIT-3,7/7/2024
+20230331-003,2022-00100-LQ-1,Data Structures in C,DIT-3,7/7/2024
+20230331-003,2022-00100-LQ-1,Artificial Intelligence,DIT-3,7/7/2024
+20230331-003,2022-00100-LQ-1,Computer Networks,DIT-3,7/7/2024
+20230429-002,2023-00618-LQ-0,Introduction to Programming,DIT-3,23/06/2023
+20230429-002,2023-00618-LQ-0,Database System Concepts,DIT-3,23/06/2023
+20230429-002,2023-00618-LQ-0,Computer Networks,DIT-3,23/06/2023
+20230429-002,2023-00618-LQ-0,Data Structures in C,DIT-3,23/06/2023
+20230429-002,2023-00618-LQ-0,Artificial Intelligence,DIT-3,23/06/2023
+20230508-001,2022-00840-LQ-0,Introduction to Programming,DIT-1,24/02/2024
+20230508-001,2022-00840-LQ-0,Data Structures in C,DIT-1,24/02/2024
+20230508-001,2022-00840-LQ-0,Artificial Intelligence,DIT-1,24/02/2024
+20230508-003,2022-00386-LQ-0,Artificial Intelligence,DIT-3,24/07/2024
+20230508-003,2022-00386-LQ-0,Introduction to Programming,DIT-3,24/07/2024
+20230508-003,2022-00386-LQ-0,Data Structures in C,DIT-3,24/07/2024
+20230516-001,2024-00645-LQ-0,Data Structures in C,DIT-3,18/02/2025
+20230516-001,2024-00645-LQ-0,Introduction to Programming,DIT-3,18/02/2025
+20230516-003,2024-00445-LQ-0,Computer Networks,DIT-3,14/01/2025
+20230516-003,2024-00445-LQ-0,Data Structures in C,DIT-3,14/01/2025
+20230516-004,2022-00843-LQ-0,Data Structures in C,DIT-2,24/08/2024
+20230516-004,2022-00843-LQ-0,Database System Concepts,DIT-2,24/08/2024
+20230516-004,2022-00843-LQ-0,Computer Networks,DIT-2,24/08/2024
+20230516-004,2022-00843-LQ-0,Artificial Intelligence,DIT-2,24/08/2024
+20230527-001,2023-00696-LQ-0,Artificial Intelligence,DIT-2,16/05/2023
+20230527-001,2023-00696-LQ-0,Computer Networks,DIT-2,16/05/2023
+20230527-001,2023-00696-LQ-0,Data Structures in C,DIT-2,16/05/2023
+20230623-004,2023-00131-LQ-0,Database System Concepts,DIT-3,6/11/2023
+20230623-004,2023-00131-LQ-0,Artificial Intelligence,DIT-3,6/11/2023
+20230623-004,2023-00131-LQ-0,Data Structures in C,DIT-3,6/11/2023
+20230623-004,2023-00131-LQ-0,Computer Networks,DIT-3,6/11/2023
+20230624-002,2024-00497-LQ-0,Introduction to Programming,DIT-1,28/11/2023
+20230624-002,2024-00497-LQ-0,Database System Concepts,DIT-1,28/11/2023
+20230624-002,2024-00497-LQ-0,Data Structures in C,DIT-1,28/11/2023
+20230624-002,2024-00497-LQ-0,Computer Networks,DIT-1,28/11/2023
+20230624-002,2024-00497-LQ-0,Artificial Intelligence,DIT-1,28/11/2023
+20230624-003,2024-00856-LQ-0,Artificial Intelligence,DIT-2,26/07/2024
+20230624-003,2024-00856-LQ-0,Database System Concepts,DIT-2,26/07/2024
+20230624-003,2024-00856-LQ-0,Data Structures in C,DIT-2,26/07/2024
+20230627-003,2023-00981-LQ-0,Data Structures in C,DIT-1,22/09/2023
+20230627-003,2023-00981-LQ-0,Database System Concepts,DIT-1,22/09/2023
+20230627-003,2023-00981-LQ-0,Computer Networks,DIT-1,22/09/2023
+20230627-003,2023-00981-LQ-0,Artificial Intelligence,DIT-1,22/09/2023
+20230627-003,2023-00981-LQ-0,Introduction to Programming,DIT-1,22/09/2023
+20230704-004,2022-00194-LQ-0,Introduction to Programming,DIT-2,5/4/2024
+20230704-004,2022-00194-LQ-0,Artificial Intelligence,DIT-2,5/4/2024
+20230719-004,2024-00725-LQ-0,Database System Concepts,DIT-3,16/01/2024
+20230719-004,2024-00725-LQ-0,Artificial Intelligence,DIT-3,16/01/2024
+20230719-004,2024-00725-LQ-0,Data Structures in C,DIT-3,16/01/2024
+20230719-005,2022-00797-LQ-0,Database System Concepts,DIT-1,9/12/2023
+20230719-005,2022-00797-LQ-0,Data Structures in C,DIT-1,9/12/2023
+20230719-005,2022-00797-LQ-0,Artificial Intelligence,DIT-1,9/12/2023
+20230719-005,2022-00797-LQ-0,Introduction to Programming,DIT-1,9/12/2023
+20230719-005,2022-00797-LQ-0,Computer Networks,DIT-1,9/12/2023
+20230721-001,2024-00996-LQ-0,Artificial Intelligence,DIT-1,12/1/2024
+20230721-001,2024-00996-LQ-0,Introduction to Programming,DIT-1,12/1/2024
+20230727-003,2024-00392-LQ-0,Database System Concepts,DIT-2,21/06/2024
+20230727-003,2024-00392-LQ-0,Artificial Intelligence,DIT-2,21/06/2024
+20230727-003,2024-00392-LQ-0,Data Structures in C,DIT-2,21/06/2024
+20230727-003,2024-00392-LQ-0,Computer Networks,DIT-2,21/06/2024
+20230727-003,2024-00392-LQ-0,Introduction to Programming,DIT-2,21/06/2024
+20230727-005,2024-00712-LQ-0,Artificial Intelligence,DIT-3,29/04/2023
+20230727-005,2024-00712-LQ-0,Computer Networks,DIT-3,29/04/2023
+20230808-005,2023-00460-LQ-0,Introduction to Programming,DIT-2,4/7/2023
+20230808-005,2023-00460-LQ-0,Computer Networks,DIT-2,4/7/2023
+20230808-005,2023-00460-LQ-0,Artificial Intelligence,DIT-2,4/7/2023
+20230823-003,2023-00119-LQ-0,Data Structures in C,DIT-2,17/07/2024
+20230823-003,2023-00119-LQ-0,Introduction to Programming,DIT-2,17/07/2024
+20230829-002,2023-00218-LQ-0,Computer Networks,DIT-2,20/01/2023
+20230829-002,2023-00218-LQ-0,Data Structures in C,DIT-2,20/01/2023
+20230829-002,2023-00218-LQ-0,Database System Concepts,DIT-2,20/01/2023
+20230829-002,2023-00218-LQ-0,Introduction to Programming,DIT-2,20/01/2023
+20230905-003,2023-00914-LQ-0,Database System Concepts,DIT-3,9/10/2024
+20230905-003,2023-00914-LQ-0,Artificial Intelligence,DIT-3,9/10/2024
+20230905-003,2023-00914-LQ-0,Data Structures in C,DIT-3,9/10/2024
+20230916-004,2022-00359-LQ-0,Artificial Intelligence,DIT-1,21/11/2024
+20230916-004,2022-00359-LQ-0,Computer Networks,DIT-1,21/11/2024
+20230916-004,2022-00359-LQ-0,Introduction to Programming,DIT-1,21/11/2024
+20230922-003,2022-00043-LQ-0,Introduction to Programming,DIT-2,7/4/2024
+20230922-003,2022-00043-LQ-0,Data Structures in C,DIT-2,7/4/2024
+20230922-003,2022-00043-LQ-0,Computer Networks,DIT-2,7/4/2024
+20230922-003,2022-00043-LQ-0,Artificial Intelligence,DIT-2,7/4/2024
+20230930-005,2024-00467-LQ-0,Database System Concepts,DIT-1,2/1/2025
+20230930-005,2024-00467-LQ-0,Introduction to Programming,DIT-1,2/1/2025
+20231002-003,2024-00436-LQ-0,Introduction to Programming,DIT-3,19/08/2024
+20231002-003,2024-00436-LQ-0,Data Structures in C,DIT-3,19/08/2024
+20231002-004,2022-00988-LQ-0,Artificial Intelligence,DIT-3,15/05/2024
+20231002-004,2022-00988-LQ-0,Introduction to Programming,DIT-3,15/05/2024
+20231002-004,2022-00988-LQ-0,Data Structures in C,DIT-3,15/05/2024
+20231002-004,2022-00988-LQ-0,Computer Networks,DIT-3,15/05/2024
+20231002-004,2022-00988-LQ-0,Database System Concepts,DIT-3,15/05/2024
+20231002-005,2024-00076-LQ-0,Database System Concepts,DIT-1,17/01/2023
+20231002-005,2024-00076-LQ-0,Artificial Intelligence,DIT-1,17/01/2023
+20231004-004,2024-00638-LQ-0,Artificial Intelligence,DIT-2,9/1/2023
+20231004-004,2024-00638-LQ-0,Introduction to Programming,DIT-2,9/1/2023
+20231004-004,2024-00638-LQ-0,Data Structures in C,DIT-2,9/1/2023
+20231004-004,2024-00638-LQ-0,Database System Concepts,DIT-2,9/1/2023
+20231015-001,2022-00186-LQ-0,Data Structures in C,DIT-2,27/05/2023
+20231015-001,2022-00186-LQ-0,Computer Networks,DIT-2,27/05/2023
+20231015-001,2022-00186-LQ-0,Artificial Intelligence,DIT-2,27/05/2023
+20231015-003,2022-00504-LQ-0,Database System Concepts,DIT-2,16/03/2024
+20231015-003,2022-00504-LQ-0,Artificial Intelligence,DIT-2,16/03/2024
+20231015-004,2023-00149-LQ-0,Introduction to Programming,DIT-1,16/09/2023
+20231015-004,2023-00149-LQ-0,Artificial Intelligence,DIT-1,16/09/2023
+20231015-004,2023-00149-LQ-0,Database System Concepts,DIT-1,16/09/2023
+20231015-004,2023-00149-LQ-0,Data Structures in C,DIT-1,16/09/2023
+20231015-005,2024-00278-LQ-0,Data Structures in C,DIT-3,14/07/2024
+20231015-005,2024-00278-LQ-0,Computer Networks,DIT-3,14/07/2024
+20231015-005,2024-00278-LQ-0,Artificial Intelligence,DIT-3,14/07/2024
+20231015-005,2024-00278-LQ-0,Introduction to Programming,DIT-3,14/07/2024
+20231025-001,2023-00647-LQ-0,Computer Networks,DIT-1,30/09/2023
+20231025-001,2023-00647-LQ-0,Artificial Intelligence,DIT-1,30/09/2023
+20231025-001,2023-00647-LQ-0,Database System Concepts,DIT-1,30/09/2023
+20231025-001,2023-00647-LQ-0,Introduction to Programming,DIT-1,30/09/2023
+20231025-001,2023-00647-LQ-0,Data Structures in C,DIT-1,30/09/2023
+20231025-004,2023-00743-LQ-0,Artificial Intelligence,DIT-3,17/07/2024
+20231025-004,2023-00743-LQ-0,Introduction to Programming,DIT-3,17/07/2024
+20231031-002,2023-00411-LQ-0,Artificial Intelligence,DIT-3,18/02/2023
+20231031-002,2023-00411-LQ-0,Computer Networks,DIT-3,18/02/2023
+20231031-002,2023-00411-LQ-0,Database System Concepts,DIT-3,18/02/2023
+20231031-002,2023-00411-LQ-0,Data Structures in C,DIT-3,18/02/2023
+20231106-002,2024-00995-LQ-1,Database System Concepts,DIT-2,24/06/2023
+20231106-002,2024-00995-LQ-1,Computer Networks,DIT-2,24/06/2023
+20231106-002,2024-00995-LQ-1,Data Structures in C,DIT-2,24/06/2023
+20231106-002,2024-00995-LQ-1,Artificial Intelligence,DIT-2,24/06/2023
+20231128-002,2022-00499-LQ-0,Computer Networks,DIT-2,31/05/2024
+20231128-002,2022-00499-LQ-0,Artificial Intelligence,DIT-2,31/05/2024
+20231128-002,2022-00499-LQ-0,Introduction to Programming,DIT-2,31/05/2024
+20231203-004,2024-00167-LQ-0,Introduction to Programming,DIT-1,27/05/2023
+20231203-004,2024-00167-LQ-0,Computer Networks,DIT-1,27/05/2023
+20231203-004,2024-00167-LQ-0,Data Structures in C,DIT-1,27/05/2023
+20231209-003,2024-00998-LQ-0,Artificial Intelligence,DIT-3,25/12/2024
+20231209-003,2024-00998-LQ-0,Computer Networks,DIT-3,25/12/2024
+20231209-003,2024-00998-LQ-0,Data Structures in C,DIT-3,25/12/2024
+20231209-003,2024-00998-LQ-0,Introduction to Programming,DIT-3,25/12/2024
+20240112-001,2023-00082-LQ-0,Artificial Intelligence,DIT-1,11/10/2024
+20240112-001,2023-00082-LQ-0,Introduction to Programming,DIT-1,11/10/2024
+20240112-001,2023-00082-LQ-0,Data Structures in C,DIT-1,11/10/2024
+20240112-001,2023-00082-LQ-0,Computer Networks,DIT-1,11/10/2024
+20240112-001,2023-00082-LQ-0,Database System Concepts,DIT-1,11/10/2024
+20240112-005,2022-00784-LQ-0,Introduction to Programming,DIT-3,19/03/2025
+20240112-005,2022-00784-LQ-0,Data Structures in C,DIT-3,19/03/2025
+20240112-005,2022-00784-LQ-0,Database System Concepts,DIT-3,19/03/2025
+20240112-005,2022-00784-LQ-0,Artificial Intelligence,DIT-3,19/03/2025
+20240116-005,2023-00917-LQ-0,Data Structures in C,DIT-3,21/07/2023
+20240116-005,2023-00917-LQ-0,Database System Concepts,DIT-3,21/07/2023
+20240116-005,2023-00917-LQ-0,Artificial Intelligence,DIT-3,21/07/2023
+20240116-005,2023-00917-LQ-0,Introduction to Programming,DIT-3,21/07/2023
+20240116-005,2023-00917-LQ-0,Computer Networks,DIT-3,21/07/2023
+20240214-003,2023-00502-LQ-0,Computer Networks,DIT-1,28/10/2024
+20240214-003,2023-00502-LQ-0,Artificial Intelligence,DIT-1,28/10/2024
+20240214-003,2023-00502-LQ-0,Database System Concepts,DIT-1,28/10/2024
+20240214-003,2023-00502-LQ-0,Data Structures in C,DIT-1,28/10/2024
+20240214-003,2023-00502-LQ-0,Introduction to Programming,DIT-1,28/10/2024
+20240224-004,2024-00649-LQ-0,Artificial Intelligence,DIT-1,8/8/2023
+20240224-004,2024-00649-LQ-0,Database System Concepts,DIT-1,8/8/2023
+20240224-004,2024-00649-LQ-0,Introduction to Programming,DIT-1,8/8/2023
+20240306-003,2024-00838-LQ-0,Introduction to Programming,DIT-3,29/08/2023
+20240306-003,2024-00838-LQ-0,Database System Concepts,DIT-3,29/08/2023
+20240306-003,2024-00838-LQ-0,Computer Networks,DIT-3,29/08/2023
+20240306-004,2023-00534-LQ-0,Introduction to Programming,DIT-1,8/5/2023
+20240306-004,2023-00534-LQ-0,Computer Networks,DIT-1,8/5/2023
+20240306-004,2023-00534-LQ-0,Data Structures in C,DIT-1,8/5/2023
+20240316-004,2024-00009-LQ-0,Computer Networks,DIT-1,25/11/2024
+20240316-004,2024-00009-LQ-0,Introduction to Programming,DIT-1,25/11/2024
+20240316-004,2024-00009-LQ-0,Database System Concepts,DIT-1,25/11/2024
+20240316-004,2024-00009-LQ-0,Data Structures in C,DIT-1,25/11/2024
+20240325-002,2022-00551-LQ-0,Database System Concepts,DIT-1,9/3/2024
+20240325-002,2022-00551-LQ-0,Data Structures in C,DIT-1,9/3/2024
+20240325-002,2022-00551-LQ-0,Computer Networks,DIT-1,9/3/2024
+20240325-002,2022-00551-LQ-0,Artificial Intelligence,DIT-1,9/3/2024
+20240325-002,2022-00551-LQ-0,Introduction to Programming,DIT-1,9/3/2024
+20240325-003,2022-00268-LQ-0,Data Structures in C,DIT-3,4/2/2023
+20240325-003,2022-00268-LQ-0,Introduction to Programming,DIT-3,4/2/2023
+20240325-003,2022-00268-LQ-0,Computer Networks,DIT-3,4/2/2023
+20240325-003,2022-00268-LQ-0,Database System Concepts,DIT-3,4/2/2023
+20240325-003,2022-00268-LQ-0,Artificial Intelligence,DIT-3,4/2/2023
+20240326-001,2024-00495-LQ-0,Introduction to Programming,DIT-2,3/12/2023
+20240326-001,2024-00495-LQ-0,Data Structures in C,DIT-2,3/12/2023
+20240326-001,2024-00495-LQ-0,Artificial Intelligence,DIT-2,3/12/2023
+20240326-001,2024-00495-LQ-0,Database System Concepts,DIT-2,3/12/2023
+20240330-003,2023-00408-LQ-0,Data Structures in C,DIT-1,8/3/2025
+20240330-003,2023-00408-LQ-0,Introduction to Programming,DIT-1,8/3/2025
+20240330-003,2023-00408-LQ-0,Computer Networks,DIT-1,8/3/2025
+20240330-003,2023-00408-LQ-0,Artificial Intelligence,DIT-1,8/3/2025
+20240330-003,2023-00408-LQ-0,Database System Concepts,DIT-1,8/3/2025
+20240330-004,2022-00946-LQ-0,Artificial Intelligence,DIT-2,4/10/2023
+20240330-004,2022-00946-LQ-0,Computer Networks,DIT-2,4/10/2023
+20240330-004,2022-00946-LQ-0,Data Structures in C,DIT-2,4/10/2023
+20240330-005,2023-00826-LQ-0,Artificial Intelligence,DIT-3,1/10/2023
+20240330-005,2023-00826-LQ-0,Introduction to Programming,DIT-3,1/10/2023
+20240330-005,2023-00826-LQ-0,Computer Networks,DIT-3,1/10/2023
+20240405-003,2022-00010-LQ-0,Database System Concepts,DIT-2,30/03/2024
+20240405-003,2022-00010-LQ-0,Computer Networks,DIT-2,30/03/2024
+20240405-003,2022-00010-LQ-0,Introduction to Programming,DIT-2,30/03/2024
+20240405-003,2022-00010-LQ-0,Data Structures in C,DIT-2,30/03/2024
+20240405-003,2022-00010-LQ-0,Artificial Intelligence,DIT-2,30/03/2024
+20240407-001,2022-00918-LQ-0,Computer Networks,DIT-1,19/07/2023
+20240407-001,2022-00918-LQ-0,Database System Concepts,DIT-1,19/07/2023
+20240407-001,2022-00918-LQ-0,Artificial Intelligence,DIT-1,19/07/2023
+20240407-005,2024-00193-LQ-0,Database System Concepts,DIT-1,27/07/2023
+20240407-005,2024-00193-LQ-0,Data Structures in C,DIT-1,27/07/2023
+20240407-005,2024-00193-LQ-0,Artificial Intelligence,DIT-1,27/07/2023
+20240407-005,2024-00193-LQ-0,Computer Networks,DIT-1,27/07/2023
+20240413-003,2022-00989-LQ-0,Data Structures in C,DIT-3,29/10/2024
+20240413-003,2022-00989-LQ-0,Computer Networks,DIT-3,29/10/2024
+20240413-004,2022-00715-LQ-0,Database System Concepts,DIT-3,20/06/2024
+20240413-004,2022-00715-LQ-0,Data Structures in C,DIT-3,20/06/2024
+20240413-004,2022-00715-LQ-0,Introduction to Programming,DIT-3,20/06/2024
+20240422-002,2022-00548-LQ-0,Data Structures in C,DIT-2,17/04/2024
+20240422-002,2022-00548-LQ-0,Artificial Intelligence,DIT-2,17/04/2024
+20240428-003,2024-00528-LQ-0,Data Structures in C,DIT-3,28/04/2024
+20240428-003,2024-00528-LQ-0,Computer Networks,DIT-3,28/04/2024
+20240428-003,2024-00528-LQ-0,Database System Concepts,DIT-3,28/04/2024
+20240428-004,2024-00751-LQ-0,Introduction to Programming,DIT-2,14/02/2024
+20240428-004,2024-00751-LQ-0,Data Structures in C,DIT-2,14/02/2024
+20240428-004,2024-00751-LQ-0,Database System Concepts,DIT-2,14/02/2024
+20240429-004,2024-00701-LQ-0,Database System Concepts,DIT-2,15/11/2024
+20240429-004,2024-00701-LQ-0,Artificial Intelligence,DIT-2,15/11/2024
+20240429-004,2024-00701-LQ-0,Computer Networks,DIT-2,15/11/2024
+20240429-004,2024-00701-LQ-0,Data Structures in C,DIT-2,15/11/2024
+20240505-002,2024-00112-LQ-0,Introduction to Programming,DIT-2,15/10/2023
+20240505-002,2024-00112-LQ-0,Database System Concepts,DIT-2,15/10/2023
+20240505-002,2024-00112-LQ-0,Data Structures in C,DIT-2,15/10/2023
+20240505-002,2024-00112-LQ-0,Artificial Intelligence,DIT-2,15/10/2023
+20240528-001,2024-00036-LQ-0,Computer Networks,DIT-1,22/08/2023
+20240528-001,2024-00036-LQ-0,Artificial Intelligence,DIT-1,22/08/2023
+20240528-001,2024-00036-LQ-0,Database System Concepts,DIT-1,22/08/2023
+20240528-003,2022-00376-LQ-0,Artificial Intelligence,DIT-2,18/03/2025
+20240528-003,2022-00376-LQ-0,Database System Concepts,DIT-2,18/03/2025
+20240528-003,2022-00376-LQ-0,Data Structures in C,DIT-2,18/03/2025
+20240531-002,2022-00385-LQ-0,Data Structures in C,DIT-3,23/08/2023
+20240531-002,2022-00385-LQ-0,Introduction to Programming,DIT-3,23/08/2023
+20240531-002,2022-00385-LQ-0,Database System Concepts,DIT-3,23/08/2023
+20240621-004,2022-00886-LQ-1,Computer Networks,DIT-3,22/08/2024
+20240621-004,2022-00886-LQ-1,Introduction to Programming,DIT-3,22/08/2024
+20240621-004,2022-00886-LQ-1,Artificial Intelligence,DIT-3,22/08/2024
+20240621-004,2022-00886-LQ-1,Database System Concepts,DIT-3,22/08/2024
+20240717-001,2024-00586-LQ-0,Artificial Intelligence,DIT-1,18/02/2025
+20240717-001,2024-00586-LQ-0,Computer Networks,DIT-1,18/02/2025
+20240717-001,2024-00586-LQ-0,Database System Concepts,DIT-1,18/02/2025
+20240717-001,2024-00586-LQ-0,Introduction to Programming,DIT-1,18/02/2025
+20240717-003,2023-00415-LQ-0,Database System Concepts,DIT-3,29/04/2024
+20240717-003,2023-00415-LQ-0,Data Structures in C,DIT-3,29/04/2024
+20240717-003,2023-00415-LQ-0,Computer Networks,DIT-3,29/04/2024
+20240325-001,2023-00029-LQ-0,Computer Networks,DIT-3,25/03/2024
+20240325-001,2023-00029-LQ-0,Introduction to Programming,DIT-3,25/03/2024
+20240325-001,2023-00029-LQ-0,Database System Concepts,DIT-3,25/03/2024
+20240325-001,2023-00029-LQ-0,Data Structures in C,DIT-3,25/03/2024
+20240325-001,2023-00029-LQ-0,Artificial Intelligence,DIT-3,25/03/2024
+20240720-002,2022-00618-LQ-1,Introduction to Programming,DIT-1,5/9/2023
+20240720-002,2022-00618-LQ-1,Artificial Intelligence,DIT-1,5/9/2023
+20240720-002,2022-00618-LQ-1,Computer Networks,DIT-1,5/9/2023
+20240720-002,2022-00618-LQ-1,Data Structures in C,DIT-1,5/9/2023
+20240720-002,2022-00618-LQ-1,Database System Concepts,DIT-1,5/9/2023
+20240720-004,2023-00112-LQ-0,Database System Concepts,DIT-3,10/12/2023
+20240720-004,2023-00112-LQ-0,Computer Networks,DIT-3,10/12/2023
+20240720-004,2023-00112-LQ-0,Data Structures in C,DIT-3,10/12/2023
+20240724-004,2022-00924-LQ-0,Data Structures in C,DIT-1,22/08/2024
+20240724-004,2022-00924-LQ-0,Database System Concepts,DIT-1,22/08/2024
+20240724-004,2022-00924-LQ-0,Computer Networks,DIT-1,22/08/2024
+20240804-004,2024-00109-LQ-0,Database System Concepts,DIT-3,2/8/2024
+20240804-004,2024-00109-LQ-0,Data Structures in C,DIT-3,2/8/2024
+20240804-004,2024-00109-LQ-0,Computer Networks,DIT-3,2/8/2024
+20240822-004,2023-00714-LQ-0,Data Structures in C,DIT-2,12/5/2023
+20240822-004,2023-00714-LQ-0,Introduction to Programming,DIT-2,12/5/2023
+20240822-004,2023-00714-LQ-0,Database System Concepts,DIT-2,12/5/2023
+20240822-004,2023-00714-LQ-0,Artificial Intelligence,DIT-2,12/5/2023
+20240824-003,2022-00100-LQ-0,Database System Concepts,DIT-2,4/8/2024
+20240824-003,2022-00100-LQ-0,Introduction to Programming,DIT-2,4/8/2024
+20240902-002,2023-00835-LQ-1,Data Structures in C,DIT-3,25/03/2023
+20240902-002,2023-00835-LQ-1,Computer Networks,DIT-3,25/03/2023
+20240902-002,2023-00835-LQ-1,Introduction to Programming,DIT-3,25/03/2023
+20240902-002,2023-00835-LQ-1,Database System Concepts,DIT-3,25/03/2023
+20240902-002,2023-00835-LQ-1,Artificial Intelligence,DIT-3,25/03/2023
+20240902-005,2022-00302-LQ-0,Database System Concepts,DIT-1,8/9/2024
+20240902-005,2022-00302-LQ-0,Computer Networks,DIT-1,8/9/2024
+20240902-005,2022-00302-LQ-0,Artificial Intelligence,DIT-1,8/9/2024
+20240902-005,2022-00302-LQ-0,Data Structures in C,DIT-1,8/9/2024
+20240902-005,2022-00302-LQ-0,Introduction to Programming,DIT-1,8/9/2024
+20240908-004,2024-00140-LQ-0,Introduction to Programming,DIT-2,6/3/2024
+20240908-004,2024-00140-LQ-0,Data Structures in C,DIT-2,6/3/2024
+20240908-004,2024-00140-LQ-0,Database System Concepts,DIT-2,6/3/2024
+20240908-004,2024-00140-LQ-0,Artificial Intelligence,DIT-2,6/3/2024
+20240908-004,2024-00140-LQ-0,Computer Networks,DIT-2,6/3/2024
+20240909-002,2023-00440-LQ-0,Artificial Intelligence,DIT-3,23/10/2023
+20240909-002,2023-00440-LQ-0,Database System Concepts,DIT-3,23/10/2023
+20240909-002,2023-00440-LQ-0,Computer Networks,DIT-3,23/10/2023
+20240917-003,2022-00092-LQ-0,Artificial Intelligence,DIT-2,27/05/2023
+20240917-003,2022-00092-LQ-0,Data Structures in C,DIT-2,27/05/2023
+20240917-003,2022-00092-LQ-0,Introduction to Programming,DIT-2,27/05/2023
+20240917-003,2022-00092-LQ-0,Computer Networks,DIT-2,27/05/2023
+20240917-003,2022-00092-LQ-0,Database System Concepts,DIT-2,27/05/2023
+20241011-001,2023-00619-LQ-0,Database System Concepts,DIT-3,23/03/2023
+20241011-001,2023-00619-LQ-0,Data Structures in C,DIT-3,23/03/2023
+20241011-001,2023-00619-LQ-0,Artificial Intelligence,DIT-3,23/03/2023
+20241011-001,2023-00619-LQ-0,Introduction to Programming,DIT-3,23/03/2023
+20241012-003,2022-00363-LQ-0,Database System Concepts,DIT-2,5/5/2024
+20241012-003,2022-00363-LQ-0,Introduction to Programming,DIT-2,5/5/2024
+20241012-004,2022-00705-LQ-0,Computer Networks,DIT-3,9/9/2024
+20241012-004,2022-00705-LQ-0,Data Structures in C,DIT-3,9/9/2024
+20241012-004,2022-00705-LQ-0,Artificial Intelligence,DIT-3,9/9/2024
+20241012-004,2022-00705-LQ-0,Database System Concepts,DIT-3,9/9/2024
+20241012-004,2022-00705-LQ-0,Introduction to Programming,DIT-3,9/9/2024
+20241029-003,2024-00314-LQ-0,Artificial Intelligence,DIT-3,22/04/2024
+20241029-003,2024-00314-LQ-0,Data Structures in C,DIT-3,22/04/2024
+20241115-003,2024-00424-LQ-0,Artificial Intelligence,DIT-3,12/10/2024
+20241115-003,2024-00424-LQ-0,Data Structures in C,DIT-3,12/10/2024
+20241115-003,2024-00424-LQ-0,Introduction to Programming,DIT-3,12/10/2024
+20241115-003,2024-00424-LQ-0,Database System Concepts,DIT-3,12/10/2024
+20241115-003,2024-00424-LQ-0,Computer Networks,DIT-3,12/10/2024
+20241121-005,2024-00185-LQ-1,Artificial Intelligence,DIT-1,31/03/2023
+20241121-005,2024-00185-LQ-1,Computer Networks,DIT-1,31/03/2023
+20241125-002,2022-00695-LQ-0,Data Structures in C,DIT-2,26/03/2024
+20241125-002,2022-00695-LQ-0,Introduction to Programming,DIT-2,26/03/2024
+20241125-002,2022-00695-LQ-0,Database System Concepts,DIT-2,26/03/2024
+20241125-002,2022-00695-LQ-0,Computer Networks,DIT-2,26/03/2024
+20241125-002,2022-00695-LQ-0,Artificial Intelligence,DIT-2,26/03/2024
+20241125-004,2023-00866-LQ-0,Introduction to Programming,DIT-1,12/5/2023
+20241125-004,2023-00866-LQ-0,Artificial Intelligence,DIT-1,12/5/2023
+20241125-004,2023-00866-LQ-0,Computer Networks,DIT-1,12/5/2023
+20241125-004,2023-00866-LQ-0,Database System Concepts,DIT-1,12/5/2023
+20241225-003,2024-00053-LQ-0,Artificial Intelligence,DIT-3,3/1/2025
+20241225-003,2024-00053-LQ-0,Computer Networks,DIT-3,3/1/2025
+20241225-003,2024-00053-LQ-0,Introduction to Programming,DIT-3,3/1/2025
+20250102-004,2023-00536-LQ-0,Database System Concepts,DIT-2,23/10/2023
+20250102-004,2023-00536-LQ-0,Introduction to Programming,DIT-2,23/10/2023
+20250102-004,2023-00536-LQ-0,Computer Networks,DIT-2,23/10/2023
+20250103-002,2024-00190-LQ-0,Computer Networks,DIT-1,21/07/2023
+20250103-002,2024-00190-LQ-0,Database System Concepts,DIT-1,21/07/2023
+20250103-002,2024-00190-LQ-0,Data Structures in C,DIT-1,21/07/2023
+20250103-002,2024-00190-LQ-0,Introduction to Programming,DIT-1,21/07/2023
+20250308-002,2022-00933-LQ-0,Data Structures in C,DIT-1,15/04/2023
+20250308-002,2022-00933-LQ-0,Introduction to Programming,DIT-1,15/04/2023
+20250308-002,2022-00933-LQ-0,Artificial Intelligence,DIT-1,15/04/2023
+20250308-002,2022-00933-LQ-0,Computer Networks,DIT-1,15/04/2023
+20250308-005,2022-00233-LQ-0,Computer Networks,DIT-2,29/06/2024
+20250308-005,2022-00233-LQ-0,Database System Concepts,DIT-2,29/06/2024
+20250308-005,2022-00233-LQ-0,Data Structures in C,DIT-2,29/06/2024
+20250308-005,2022-00233-LQ-0,Introduction to Programming,DIT-2,29/06/2024
+20250319-002,2022-00375-LQ-0,Introduction to Programming,DIT-2,23/01/2024
+20250319-002,2022-00375-LQ-0,Data Structures in C,DIT-2,23/01/2024
+20250319-002,2022-00375-LQ-0,Artificial Intelligence,DIT-2,23/01/2024
+20250319-002,2022-00375-LQ-0,Database System Concepts,DIT-2,23/01/2024
+20250319-003,2023-00061-LQ-0,Database System Concepts,DIT-3,20/07/2024
+20250319-003,2023-00061-LQ-0,Introduction to Programming,DIT-3,20/07/2024
+20250319-003,2023-00061-LQ-0,Artificial Intelligence,DIT-3,20/07/2024
+20250319-003,2023-00061-LQ-0,Computer Networks,DIT-3,20/07/2024
